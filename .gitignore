@@ -1,0 +1,7 @@
+credits*
+*/INPUT*
+*/OUTPUT*
+*.exe
+*.ilk
+*.obj
+*pdb
